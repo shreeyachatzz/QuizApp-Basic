@@ -1,5 +1,4 @@
-# quiz_app
-
+# QuizApp-Basic
 A new Flutter project.
 
 ## Getting Started
